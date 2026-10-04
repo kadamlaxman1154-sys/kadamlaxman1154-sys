@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ## 🚀 My Projects
 
-- **My First Project** — JanSetu AI  [View project](https://github.com/piyush-devx10/HackersX-JanSetu-AI)
+- **My First Project** — JanSetu AI  [View project](https://github.com/kadamlaxman1154-sys/Code-and.-Commit-2)
 
 ## 📫 Connect With Me
 
